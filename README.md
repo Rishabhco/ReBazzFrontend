@@ -18,8 +18,6 @@ We also plan to implement a payment system based on Blockchain so that the syste
 
 Deployment made on Heroku
 
-- Hosted Link: https://rebazz.netlify.app/
-
 ## 🛠️ Built With
 - HTML
 - CSS
@@ -41,8 +39,5 @@ Deployment made on Heroku
 
 
 ## 🙋🏻‍♂️ Contributors
-* [Shreyan Sanyal](https://github.com/Shreyan111)
+* [Kaushal Agrawal](https://github.com/Kaushal-A)
 * [Rishabh Agarwal](https://github.com/Rishabhco)
-* [Mayank Dhankar](https://github.com/mayankdhnkr)
-* [Mohammed Muazz Zuberi](https://github.com/Muazz45)
-* [Prerit Rawtani](https://github.com/Prerit2002)
